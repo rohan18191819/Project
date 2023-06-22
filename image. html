@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Document</title>
+</head>
+<body>
+<form action="http://google.com">
+<label for="firstname">fname</label> <input type="text" id="firstname" autofocus><br><br>
+
+12
+
+13
+
+<label for="">pasword</label>
+
+14
+
+<input type="password" placeholder="enter password"><br><br>
+
+15
+
+<label for="">contact</label>
+
+16
+
+<input type="text" value="enter your contact" readonly><br>
+
+17
+
+<label for="">hobs</label>
+
+18
+
+<input type="checkbox">games
+
+19
+
+<input type="checkbox" checked>reading books
+
+I
+
+20
+
+<input type="checkbox">movies
+
+21
+
+<input type="checkbox">music <br>
+
+<label for="state">select state</label> <select name="states" id="states"><br>
+
+23
+
+24
+
+<option value="">ts</option>
+
+25
+
+<option value="">ap</option> <option value="">ka</option>
+
+<inpur type="submit">
+
+<option value="">mh</option>
+</body>
+</html>
